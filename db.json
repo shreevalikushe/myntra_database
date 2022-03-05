@@ -3492,5 +3492,28 @@
     }
   ],
   "wishlist": [],
-  "cart": []
+  "cart": [
+    {
+      "id": 68,
+      "brand_name": "Anouk",
+      "name": "Women Pink & Mustard Yellow Printed Straight Kurta",
+      "price": {
+        "mrp": 1599,
+        "discount": 65,
+        "sp": 559
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 3.6,
+      "product_details": [
+        "Pink and Mustard printed straight kurta, has a round neck, sleeveless, straight hem, and side slits"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/4a304bf4-e760-4541-8397-30b5a4e2090b1591954912936-Anouk-Women-Kurtas-2871591954910211-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/aca930e6-5d98-48e7-90a9-69634a3057e51591954912996-Anouk-Women-Kurtas-2871591954910211-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/66a58426-8a22-452c-8c02-acb79dd0b8b41591954913053-Anouk-Women-Kurtas-2871591954910211-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/76da5630-a3c0-4775-9f1f-1c5be4cd87001591954912894-Anouk-Women-Kurtas-2871591954910211-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/2a7fa61e-f411-4615-bb64-bd3c1d1148a21591954912850-Anouk-Women-Kurtas-2871591954910211-5.jpg"
+      ]
+    }
+  ]
 }
