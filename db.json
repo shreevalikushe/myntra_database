@@ -3514,6 +3514,28 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/76da5630-a3c0-4775-9f1f-1c5be4cd87001591954912894-Anouk-Women-Kurtas-2871591954910211-4.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10959710/2020/6/12/2a7fa61e-f411-4615-bb64-bd3c1d1148a21591954912850-Anouk-Women-Kurtas-2871591954910211-5.jpg"
       ]
+    },
+    {
+      "id": 91,
+      "brand_name": "KSUT",
+      "name": "Women Black & Golden Yoke Design Straight Kurta",
+      "price": {
+        "mrp": 1799,
+        "discount": 58,
+        "sp": 755
+      },
+      "sizes": ["S", "L", "XL"],
+      "customer_rating": 4.4,
+      "product_details": [
+        "Black and Golden yoke design straight kurta, has a round neck, three-quarter sleeves, straight hem, and side slits"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11626484/2020/3/12/415e3f46-ccd8-4559-9aa3-8b9295b74af11584010096618-KSUT-Women-Black--Gold-Toned-Yoke-Design-Straight-Kurta-7141-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11626484/2020/3/12/349cadeb-416f-497a-8575-bbdc4802be3e1584010096568-KSUT-Women-Black--Gold-Toned-Yoke-Design-Straight-Kurta-7141-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11626484/2020/3/12/4d90ed6f-0878-4d3e-b214-329c625e43151584010096508-KSUT-Women-Black--Gold-Toned-Yoke-Design-Straight-Kurta-7141-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11626484/2020/3/12/1810c7bb-6934-40c1-a724-7b016943fcb21584010096452-KSUT-Women-Black--Gold-Toned-Yoke-Design-Straight-Kurta-7141-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11626484/2020/3/12/2f0b4354-3b98-44b2-a27d-de27882df4f41584010096397-KSUT-Women-Black--Gold-Toned-Yoke-Design-Straight-Kurta-7141-5.jpg"
+      ]
     }
   ]
 }
